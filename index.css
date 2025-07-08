@@ -5,9 +5,10 @@
   font-family: "Arial", sans-serif;
 }
 
+
 /* Global Styles */
 body {
-  background-color: #000;
+  background-color: red;
   color: #fff;
   line-height: 1.6;
 }
